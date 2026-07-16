@@ -1,0 +1,4240 @@
+{
+    "train": [
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/10.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/100.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1000.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1002.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1003.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1004.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1005.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1006.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1009.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1010.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1011.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1012.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1013.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1015.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1016.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1019.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1021.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1024.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1025.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1027.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1028.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1029.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/103.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1030.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1032.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1033.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1034.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1035.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1037.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1041.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1042.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1043.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1046.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1049.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1052.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1053.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1056.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1057.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1058.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/106.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/107.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/108.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/109.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/11.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/110.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/111.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/112.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/115.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/116.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/118.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/119.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/123.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/124.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/126.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/128.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/129.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/13.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/130.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/131.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/132.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/133.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/134.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/136.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/14.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/140.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/141.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/143.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/144.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/146.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/147.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/15.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/152.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/153.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/155.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/157.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/158.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/159.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/16.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/160.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/162.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/164.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/165.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/167.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/169.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/170.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/171.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/173.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/176.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/177.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/178.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/180.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/181.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/182.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/183.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/186.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/190.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/191.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/192.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/193.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/195.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/197.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/198.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/199.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/2.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/200.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/204.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/205.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/206.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/207.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/208.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/209.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/21.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/210.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/213.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/215.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/217.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/218.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/219.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/22.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/220.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/221.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/223.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/224.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/225.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/226.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/227.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/228.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/229.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/23.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/231.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/234.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/235.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/236.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/237.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/238.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/239.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/24.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/240.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/241.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/243.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/245.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/246.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/247.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/248.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/249.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/251.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/253.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/254.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/255.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/256.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/257.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/259.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/26.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/260.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/261.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/264.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/265.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/266.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/267.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/268.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/269.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/27.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/270.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/271.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/272.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/274.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/275.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/276.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/277.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/278.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/279.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/280.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/281.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/282.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/286.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/289.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/29.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/290.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/291.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/292.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/293.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/297.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/3.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/300.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/301.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/303.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/304.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/306.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/307.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/308.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/309.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/310.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/311.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/313.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/314.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/316.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/317.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/318.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/319.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/320.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/321.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/322.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/323.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/324.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/325.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/326.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/327.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/33.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/330.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/331.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/333.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/334.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/335.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/336.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/337.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/339.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/340.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/342.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/345.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/346.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/347.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/350.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/353.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/354.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/355.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/357.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/358.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/359.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/360.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/361.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/362.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/364.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/366.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/367.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/368.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/369.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/37.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/371.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/372.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/374.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/377.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/38.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/380.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/381.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/382.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/384.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/385.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/386.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/387.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/389.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/39.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/390.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/391.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/393.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/394.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/395.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/396.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/397.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/399.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/4.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/40.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/403.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/406.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/407.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/408.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/41.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/410.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/411.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/414.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/417.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/419.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/42.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/421.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/422.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/423.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/425.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/43.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/430.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/435.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/438.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/439.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/44.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/440.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/441.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/442.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/445.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/446.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/447.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/448.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/449.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/45.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/452.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/453.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/454.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/458.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/459.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/46.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/460.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/462.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/463.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/464.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/465.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/466.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/467.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/469.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/47.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/470.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/471.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/472.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/474.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/477.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/479.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/480.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/482.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/484.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/485.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/486.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/487.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/488.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/489.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/49.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/490.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/491.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/493.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/496.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/498.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/499.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/500.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/501.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/502.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/506.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/509.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/510.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/512.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/513.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/515.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/516.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/518.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/520.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/521.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/522.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/524.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/525.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/527.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/528.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/53.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/530.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/531.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/533.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/535.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/536.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/537.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/538.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/541.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/543.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/544.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/546.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/547.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/548.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/550.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/551.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/552.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/553.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/554.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/556.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/557.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/559.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/56.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/560.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/561.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/563.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/564.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/566.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/567.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/570.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/571.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/574.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/575.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/576.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/577.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/579.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/58.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/580.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/581.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/583.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/584.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/585.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/59.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/591.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/592.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/593.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/594.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/596.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/597.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/598.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/599.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/60.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/600.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/601.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/603.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/609.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/61.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/610.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/611.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/613.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/619.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/62.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/620.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/621.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/622.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/624.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/625.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/626.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/628.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/63.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/630.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/631.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/632.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/633.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/635.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/636.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/637.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/638.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/640.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/642.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/643.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/644.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/645.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/646.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/647.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/648.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/65.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/650.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/651.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/652.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/653.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/654.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/655.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/656.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/657.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/658.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/659.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/661.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/662.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/663.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/664.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/666.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/667.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/668.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/669.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/670.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/671.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/672.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/674.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/675.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/676.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/677.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/678.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/68.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/680.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/682.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/683.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/686.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/687.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/688.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/69.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/692.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/694.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/697.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/699.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/7.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/70.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/700.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/701.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/703.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/705.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/707.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/708.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/71.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/711.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/713.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/714.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/717.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/719.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/720.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/722.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/724.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/73.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/730.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/731.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/732.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/733.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/735.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/736.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/739.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/74.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/740.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/741.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/742.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/743.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/744.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/746.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/748.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/75.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/750.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/754.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/755.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/759.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/76.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/763.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/766.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/768.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/770.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/771.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/773.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/774.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/775.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/776.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/777.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/779.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/78.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/780.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/781.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/783.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/784.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/785.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/787.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/788.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/789.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/79.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/791.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/792.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/794.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/795.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/798.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/799.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/8.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/800.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/801.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/803.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/804.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/805.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/808.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/809.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/81.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/810.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/811.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/813.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/82.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/822.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/823.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/824.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/826.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/827.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/829.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/83.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/830.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/832.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/833.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/834.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/835.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/837.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/84.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/840.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/842.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/847.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/85.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/852.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/853.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/854.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/856.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/857.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/858.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/860.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/861.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/862.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/863.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/864.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/865.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/867.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/87.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/870.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/871.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/872.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/873.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/874.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/875.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/876.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/877.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/879.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/88.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/880.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/882.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/883.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/884.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/886.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/888.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/893.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/895.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/897.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/898.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/899.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/9.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/90.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/900.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/901.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/902.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/904.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/905.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/906.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/907.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/908.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/909.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/910.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/911.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/912.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/915.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/918.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/919.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/920.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/921.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/922.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/923.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/924.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/925.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/926.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/927.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/928.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/929.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/930.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/931.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/934.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/937.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/938.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/941.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/942.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/943.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/945.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/946.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/947.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/948.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/949.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/95.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/950.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/951.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/955.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/957.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/958.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/959.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/96.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/960.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/962.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/963.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/964.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/966.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/967.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/968.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/97.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/971.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/972.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/974.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/98.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/980.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/981.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/982.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/983.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/984.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/985.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/986.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/987.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/992.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/993.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/995.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/996.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/997.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/999.pth",
+            "label": "negative"
+        }
+    ],
+    "val": [
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1008.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/101.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1017.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/102.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1022.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1023.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1026.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1031.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1036.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1038.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/104.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1048.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1055.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/113.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/12.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/120.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/121.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/125.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/127.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/135.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/138.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/142.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/156.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/163.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/166.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/168.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/172.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/175.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/179.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/184.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/188.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/189.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/202.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/212.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/216.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/222.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/233.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/244.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/25.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/250.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/258.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/262.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/284.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/285.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/287.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/295.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/305.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/315.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/32.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/332.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/338.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/341.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/348.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/349.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/352.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/356.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/36.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/363.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/365.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/373.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/379.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/383.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/388.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/392.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/400.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/409.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/412.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/413.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/420.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/424.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/427.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/431.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/432.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/433.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/434.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/436.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/443.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/444.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/450.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/455.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/48.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/519.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/52.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/534.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/542.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/55.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/555.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/565.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/568.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/572.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/587.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/590.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/595.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/602.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/612.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/614.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/617.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/627.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/629.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/634.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/641.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/66.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/685.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/689.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/690.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/695.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/702.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/709.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/710.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/712.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/715.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/718.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/72.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/725.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/728.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/734.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/737.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/747.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/749.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/751.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/753.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/756.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/757.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/760.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/761.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/762.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/764.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/765.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/769.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/778.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/793.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/796.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/797.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/802.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/806.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/807.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/812.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/818.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/819.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/820.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/825.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/828.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/836.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/849.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/850.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/855.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/86.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/866.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/868.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/869.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/887.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/889.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/894.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/896.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/903.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/91.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/914.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/932.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/936.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/94.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/953.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/954.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/965.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/978.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/979.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/989.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/994.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/998.pth",
+            "label": "negative"
+        }
+    ],
+    "test": [
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1001.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1007.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1014.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1018.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1020.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1039.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1040.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1044.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1045.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1047.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/105.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1050.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1051.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/1054.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/114.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/117.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/122.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/137.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/139.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/145.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/148.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/149.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/150.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/151.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/154.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/161.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/17.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/174.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/185.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/187.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/194.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/196.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/201.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/203.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/211.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/214.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/230.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/232.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/242.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/252.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/263.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/273.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/28.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/283.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/288.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/294.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/296.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/298.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/299.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/30.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/302.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/31.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/312.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/328.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/329.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/34.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/343.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/344.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/35.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/351.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/370.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/375.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/376.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/378.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/398.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/401.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/402.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/404.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/405.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/415.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/416.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/418.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/426.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/428.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/429.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/437.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/451.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/456.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/457.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/461.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/468.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/473.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/475.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/476.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/478.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/481.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/483.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/492.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/494.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/495.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/497.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/5.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/50.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/503.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/504.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/505.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/507.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/508.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/51.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/511.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/514.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/517.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/523.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/526.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/529.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/532.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/539.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/54.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/540.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/545.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/549.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/558.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/562.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/569.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/57.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/573.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/578.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/582.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/586.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/588.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/589.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/6.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/604.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/605.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/606.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/607.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/608.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/615.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/616.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/618.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/623.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/639.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/64.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/649.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/660.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/665.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/67.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/673.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/679.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/681.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/684.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/691.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/693.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/696.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/698.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/704.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/706.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/716.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/721.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/723.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/726.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/727.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/729.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/738.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/745.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/752.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/758.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/767.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/77.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/772.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/782.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/786.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/790.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/80.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/814.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/815.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/816.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/817.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/821.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/831.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/838.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/839.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/841.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/843.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/844.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/845.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/846.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/848.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/851.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/859.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/878.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/881.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/885.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/89.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/890.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/891.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/892.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/913.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/916.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/917.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/92.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/93.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/933.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/935.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/939.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/940.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/944.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/952.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/956.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/961.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/969.pth",
+            "label": "negative"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/970.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/973.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/975.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/976.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/977.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/988.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/99.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/990.pth",
+            "label": "positive"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/991.pth",
+            "label": "positive"
+        }
+    ]
+}

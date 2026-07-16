@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+
+# Local data and generated outputs
+data/
+results/
+results_*/
+logs/
+
+# Model artifacts and checkpoints
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.bin
+*.safetensors
+
+# Editor and system files
+.DS_Store
+.idea/
+.vscode/
