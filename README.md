@@ -18,18 +18,18 @@ Overview of the proposed framework. Left: ROI-level pretraining of the MIL netwo
 
 The `pretrained_weight/` directory contains pretrained checkpoints for supported MIL backbones:
 
-| MIL backbone | Pretrained weight |
-| --- | --- |
-| ABMIL | `pretrained_weight/pretrained_abmil.pt` |
-| 2D-Mamba | `pretrained_weight/pretrained_2dmamba.pt` |
-| CLAM-SB | `pretrained_weight/pretrained_clam_sb.pt` |
-| CLAM-MB | `pretrained_weight/pretrained_clam_mb.pt` |
-| AMD-MIL | `pretrained_weight/pretrained_amdmil.pt` |
-| AEM-MIL | `pretrained_weight/pretrained_aemmil.pt` |
-| DAgMIL | `pretrained_weight/pretrained_dagmil.pt` |
-| GDF-MIL | `pretrained_weight/pretrained_gdfmil.pt` |
-| TransMIL | `pretrained_weight/pretrained_transmil.pt` |
-| WiKG | `pretrained_weight/pretrained_wikg.pt` |
+| MIL backbone | Paper | Pretrained weight |
+| --- | --- | --- |
+| ABMIL | [Attention-based Deep Multiple Instance Learning](https://arxiv.org/abs/1802.04712) | `pretrained_weight/pretrained_abmil.pt` |
+| 2DMamba | [2DMamba: Efficient State Space Model for Image Representation with Applications on Giga-Pixel Whole Slide Image Classification](https://arxiv.org/abs/2412.00678) | `pretrained_weight/pretrained_2dmamba.pt` |
+| CLAM-SB | [Data Efficient and Weakly Supervised Computational Pathology on Whole Slide Images](https://www.nature.com/articles/s41551-020-00682-w) | `pretrained_weight/pretrained_clam_sb.pt` |
+| CLAM-MB | [Data Efficient and Weakly Supervised Computational Pathology on Whole Slide Images](https://www.nature.com/articles/s41551-020-00682-w) | `pretrained_weight/pretrained_clam_mb.pt` |
+| AMDMIL | [Agent Aggregator with Mask Denoise Mechanism for Histopathology Whole Slide Image Analysis](https://arxiv.org/abs/2409.11664) | `pretrained_weight/pretrained_amdmil.pt` |
+| AEMMIL | [AEM: Attention Entropy Maximization for Multiple Instance Learning based Whole Slide Image Classification](https://arxiv.org/abs/2406.15303) | `pretrained_weight/pretrained_aemmil.pt` |
+| DAGMIL | [Deformable Attention Graph Representation Learning for Histopathology Whole Slide Image Analysis](https://arxiv.org/abs/2508.05382) | `pretrained_weight/pretrained_dagmil.pt` |
+| GDFMIL | [Rethinking Multi-Instance Learning Through Graph-Driven Fusion: A Dual-Path Approach to Adaptive Representation](https://doi.org/10.1609/aaai.v40i34.40081) | `pretrained_weight/pretrained_gdfmil.pt` |
+| TransMIL | [TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classification](https://arxiv.org/abs/2106.00908) | `pretrained_weight/pretrained_transmil.pt` |
+| WiKG | [Dynamic Graph Representation with Knowledge-aware Attention for Histopathology Whole Slide Image Analysis](https://arxiv.org/abs/2403.07719) | `pretrained_weight/pretrained_wikg.pt` |
 
 These checkpoints can be loaded by the downstream scripts through `--pretrained_weights`. The helper script `test_downstream/benchmark_pretrain.sh` uses this directory by default.
 
