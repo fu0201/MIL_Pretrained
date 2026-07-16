@@ -18,18 +18,18 @@ Overview of the proposed framework. Left: ROI-level pretraining of the MIL netwo
 
 The `pretrained_weight/` directory contains pretrained checkpoints for supported MIL backbones:
 
-```text
-pretrained_abmil.pt
-pretrained_2dmamba.pt
-pretrained_clam_sb.pt
-pretrained_clam_mb.pt
-pretrained_amdmil.pt
-pretrained_aemmil.pt
-pretrained_dagmil.pt
-pretrained_gdfmil.pt
-pretrained_transmil.pt
-pretrained_wikg.pt
-```
+| MIL backbone | Pretrained weight |
+| --- | --- |
+| ABMIL | `pretrained_weight/pretrained_abmil.pt` |
+| 2D-Mamba | `pretrained_weight/pretrained_2dmamba.pt` |
+| CLAM-SB | `pretrained_weight/pretrained_clam_sb.pt` |
+| CLAM-MB | `pretrained_weight/pretrained_clam_mb.pt` |
+| AMD-MIL | `pretrained_weight/pretrained_amdmil.pt` |
+| AEM-MIL | `pretrained_weight/pretrained_aemmil.pt` |
+| DAgMIL | `pretrained_weight/pretrained_dagmil.pt` |
+| GDF-MIL | `pretrained_weight/pretrained_gdfmil.pt` |
+| TransMIL | `pretrained_weight/pretrained_transmil.pt` |
+| WiKG | `pretrained_weight/pretrained_wikg.pt` |
 
 These checkpoints can be loaded by the downstream scripts through `--pretrained_weights`. The helper script `test_downstream/benchmark_pretrain.sh` uses this directory by default.
 
